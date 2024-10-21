@@ -9,7 +9,10 @@ Smart Contract Testing: The application enables testing of smart contracts on th
 User-Friendly Interface: Designed for ease of use, the app presents transaction data in an accessible and organized manner.
 This project not only enhanced my understanding of blockchain technology and cryptocurrency but also provided a practical solution for managing Ethereum transactions.
 
-App screens:
+
+
+APP SCREENS:
+
 ![image](https://github.com/user-attachments/assets/29ce199a-2bb4-4ad7-aa39-a628b6bfb7f6)
 
 🢃
