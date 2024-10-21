@@ -11,17 +11,27 @@ This project not only enhanced my understanding of blockchain technology and cry
 
 App screens:
 ![image](https://github.com/user-attachments/assets/29ce199a-2bb4-4ad7-aa39-a628b6bfb7f6)
+
 ⬇
+
 ![image](https://github.com/user-attachments/assets/1dc2d7ac-cdc4-479c-b951-74d725c0105b)
+
 ⬇
+
 ![image](https://github.com/user-attachments/assets/969d2e6e-d230-45fb-9896-0040694782ee) ![image](https://github.com/user-attachments/assets/b0f480d4-7408-453c-b170-17c44e090393)
+
 ⬇
+
 ![image](https://github.com/user-attachments/assets/68b8fa04-1467-4551-9114-aa67b9993407) ![image](https://github.com/user-attachments/assets/5e13d8bd-1954-4ef2-97e6-d47ed01e0be3)
+
 ⬇
+
 ![image](https://github.com/user-attachments/assets/bbaa4e51-c4a1-45fa-abe0-51f948fc4f86)
 
 Architecture:
+
 ![image](https://github.com/user-attachments/assets/0906a2c9-f3eb-4f79-9e3b-c2f9f472403d)
 
 Structure:
+
 ![image](https://github.com/user-attachments/assets/de373511-936f-41cd-bba1-a9571e5513db)
